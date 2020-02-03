@@ -99,9 +99,11 @@ WyYBlogEditor
 [base]
 ShowDOS=1
 AbsoluteUrl=1
+Mini=1 // 2020.02.03更新
 ```
 
 - ShowDos：该选项为`1`时将显示Git运行时的DOS窗口，你可以用它查看DOS运行信息以及得到报错
 - AbsoluteUrl：该选项为`1`时将会渲染主题中`{$assetsPath}`为`base.json.system.url`即转为绝对地址
+- Mini：该选项将在打开时提供置托盘选项，置托盘后快捷键`Alt+B`将快速呼出界面
 
 你可以视情况而定，打开(=1)或关闭(=Anything)上方选项。
