@@ -15,3 +15,10 @@ WyYBE将按照既定规则渲染文档内的指定内容（包括布局，列表
 ## 拓展
 
 WyYBE包含着内置的DLL拓展接口以及JavaScript拓展接口，你能够完成插件拓展功能。
+
+## 联系我
+
+ - E-mail:[i@kingsr.cc](mailto:i@kingsr.cc)
+ - QQ:1143524493
+ - Wechat:bXltYXBhNTIw(Base64编码)
+ - 你也可以加入WyYBE微信群，加我后把你拉入群聊
