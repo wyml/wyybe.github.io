@@ -4,7 +4,7 @@
 
 内置主题目录结构如下：
 
-```json
+```tree
 default
  ├── assets
  │   ├── css
@@ -46,6 +46,9 @@ default
     "subtitle": "记录生活的美好,一起发现创造",
     "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1143524493&s=5",
     "mail": "i@kingsr.cc",
+    "icp": "桂ICP备16007573号-1",
+    "gov": "桂公网安备45012602000065号",
+    "govUrl": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=45012602000065",
     "pages": [{
         "tpl": "pages/links",
         "target": "pages/links"
@@ -77,13 +80,16 @@ default
 
 该项下，为主题的作者信息以及主题名称，此项为了作者的权益，请不要随意修改！
 
-### name、title、subtitle、avatar、mail
+### name、title、subtitle、avatar、mail、icp、gov、govUrl
 
 - name：侧边栏及文章等处的名称
 - title：博客首页标题
 - subtitile：博客首页副标题
 - avatar：侧边栏、文章头像地址
 - mail：侧边栏邮箱地址
+- icp：工信部备案号
+- gov：公安网备案号
+- govUrl：公安网备案号地址
 
 ### pages
 

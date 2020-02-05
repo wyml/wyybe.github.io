@@ -16,6 +16,12 @@ WyYBE将按照既定规则渲染文档内的指定内容（包括布局，列表
 
 WyYBE包含着内置的DLL拓展接口以及JavaScript拓展接口，你能够完成插件拓展功能。
 
+## 更新日志
+
+你可以在Github上查看最新的更新日志，用以选择是否要更新。
+
+[更新日志](https://raw.githubusercontent.com/wyml/wyml.github.io/master/update.json)
+
 ## 联系我
 
  - E-mail:[i@kingsr.cc](mailto:i@kingsr.cc)

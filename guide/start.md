@@ -4,6 +4,7 @@
 
 - system：Windows7及以上
 - 安装Windows Git
+*（你可以在这里下载到最新的Git for Windows：[淘宝镜像](https://npm.taobao.org/mirrors/git-for-windows/)）*
 
 ## 安装
 
@@ -16,7 +17,7 @@
 
 下载完成后，解压至你的应用目录即可。目录结构应与下面类似：
 
-```dos
+```tree
 WyYBlogEditor
  ├── _posts
  ├── public
